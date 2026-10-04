@@ -4,7 +4,7 @@
 
 I turn raw data into clear answers: SQL and Python for the analysis, Excel, Tableau and Power BI for the reporting.
 
-[LinkedIn](https://www.linkedin.com/in/prasadvivek123) | [Tableau Public](https://public.tableau.com/app/profile/vivek.prasad5963) | vivek1506prasad@gmail.com
+[LinkedIn](https://www.linkedin.com/in/prasadvivek123) | [Tableau Public](https://public.tableau.com/app/profile/vivek.prasad5963) | 1itdvivekprasad11@gmail.com
 
 ## Data analytics projects
 
